@@ -19,6 +19,8 @@ Before starting this tutorial, I would like to give credits to Sonar System's Yo
 ### STEP 1:
 Install **Homebrew**, from the given link: https://brew.sh . You just need to copy the line of code, given there on the site and paste it on your command line. It doesn't matter if you are using a **bash or ZSH shell**. It will take some time in installation, and before that it will ask your password. Just enter it, however the characters won't be visible. Don't worry, just keep typing it.
 
+![homebrew](homebrew.jpeg)
+
 
 ### STEP 2:
 Now type the command ``` brew install opencv ```, on the terminal. Make sure you are in the root directory. This will install openCV, and again it's going to take some time.
