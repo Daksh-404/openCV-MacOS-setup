@@ -31,8 +31,12 @@ You will see a project with the given project name will be created. Right click 
 
 If you will have the version number written towards the end of the file, latest at the current moment, 4.3.0. Some files will be starting off with the name *libopencv...*, these are the most important ones, and actually these are the only ones which you will be requiring. I will suggest adding all of the latest version ones to the project. 
 
+
+![libraries](libraries.jpeg)
+
+
 ### STEP 5:
-So the thing is, you have to download/add all the files ending with an extension *4.3.0.dylib*. For my Feature-detection project, I downloaded all these files, as you can see in the above screenshot. Hence the point to consider is, now you will see ```xfeature2d``` library and many more which are a part of **openCV_contrib** package. Thus you don't need to hassle or search around or download an extra zip file for the same. For multi-selection of the files, use *Commmand* button on the keyboard. Keep holding it, until you select all the required ones.
+So the thing is, you have to download/add all the files ending with an extension *4.3.0.dylib*. For my Feature-detection project, I downloaded all these files, as you can see in the below screenshot. Hence the point to consider is, now you will see ```xfeature2d``` library and many more which are a part of **openCV_contrib** package. Thus you don't need to hassle or search around or download an extra zip file for the same. For multi-selection of the files, use *Commmand* button on the keyboard. Keep holding it, until you select all the required ones.
 **NOTE**: You have to do this for each new project.
 
 ### STEP 6 :
